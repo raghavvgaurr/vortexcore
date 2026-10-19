@@ -1,0 +1,23 @@
+langchain 
+langchain-community
+#splitter and  chunking 
+pymupdf
+langchain-text-splitters
+
+#ocr
+pytesseract
+pymupdf
+Pillow
+pdf2image
+
+langchain-huggingface 
+sentence-transformers
+langchain-experimental
+qdrant-client
+rank-bm25
+langchain-groq
+langchain-google-genai
+pandas
+langsmith
+langchain-groq
+streamlit

@@ -1,0 +1,5 @@
+method,recall@5,MRR,strict_recall@5,strict_MRR
+dense only,0.6378,0.8042,0.8062,0.8
+bm25 only,0.6135,0.7921,0.7477,0.7588
+hybrid (RRF),0.6381,0.8821,0.7832,0.8571
+hybrid + rerank,0.7221,0.8642,0.8497,0.8375

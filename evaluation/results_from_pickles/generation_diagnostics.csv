@@ -1,0 +1,17 @@
+id,fact_coverage,fact_coverage_numbers_normalized,facts_found,required_facts,answer
+q01_dartmouth_ai,1.0,1.0,"['Dartmouth', '1956']","['Dartmouth', '1956']",The term “Artificial Intelligence” was first used at the Dartmouth Conference in 1956.
+q02_chatgpt_100m,0.667,0.667,"['100 million', '2 months']","['100 million', '2 months', 'November 2022']",ChatGPT reached 100 million users in just 2 months.
+q03_ai_components,1.0,1.0,"['algorithms', 'data', 'compute']","['algorithms', 'data', 'compute']","The three core components of AI are **Algorithms, Data, and Compute**."
+q04_tokens_words,1.0,1.0,"['0.75', '100 tokens', '75 words']","['0.75', '100 tokens', '75 words']","The rough rule of thumb is that **1 token ≈ 0.75 words** (so, for example, 100 tokens are about 75 words)."
+q05_transformers,1.0,1.0,"['Attention Is All You Need', '2017']","['Attention Is All You Need', '2017']","The paper that introduced Transformers is the Google research paper titled **“Attention Is All You Need,”** and it was published in **2017**."
+q06_christies_ai_art,1.0,1.0,"['432,500']","['432,500']","Christie’s sold the first AI artwork for **$432,500 (USD)**."
+q07_cisco_devices,1.0,1.0,"['29.3 billion', '14.7 billion', 'IoT']","['29.3 billion', '14.7 billion', 'IoT']","Cisco’s Annual Internet Report 2023 estimates that there are **about 29.3 billion networked devices worldwide**. Of those, **approximately 14.7 billion are Internet‑of‑Things (IoT) devices**."
+q08_tsmc_samsung,1.0,1.0,"['TSMC', '55', 'Samsung', '15']","['TSMC', '55', 'Samsung', '15']","- **TSMC:** Approximately 55 % market share.  
+- **Samsung:** Approximately 15 % market share (in 2023)."
+q09_swedish_breast_cancer,0.333,0.333,['two radiologists'],"['two radiologists', '50%', '20%']","The 2023 Swedish study found that AI‑supported breast‑cancer screening (analysis of mammogram images) performed as well as two radiologists working together, cut the radiologists’ workload by about 50 %, and resulted in roughly 20 % more cancers being detected early for treatment."
+q10_itu_offline,0.333,0.333,['2.6 billion'],"['34%', '2.6 billion', '64%']","The ITU’s 2022 data indicate that a large share of people are still offline:
+
+* **Globally**, 34 % of the world’s population had never been connected to the Internet in 2022, which corresponds to about **2.6 billion people**.  
+* **In the least‑developed countries (LDCs)**, the offline share is much higher: **64 % of the population is not connected**, which is almost twice the global average of 34 %.  
+
+These figures show that roughly one‑third of all people worldwide, and nearly two‑thirds of people in LDCs, remain offline."

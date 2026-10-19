@@ -1,0 +1,17 @@
+id,question,latency_sec,error,mode,answer,abstained
+q01_dartmouth_ai,"Where and when was the term ""Artificial Intelligence"" first used?",39.00859149999451,,single,The term “Artificial Intelligence” was first used at the Dartmouth Conference in 1956.,False
+q02_chatgpt_100m,How fast did ChatGPT reach 100 million users?,3.960040999983903,,single,ChatGPT reached 100 million users in just 2 months.,False
+q03_ai_components,What are the three core components of AI?,3.4258032999932766,,single,"The three core components of AI are **Algorithms, Data, and Compute**.",False
+q04_tokens_words,What is the rough tokens-to-words rule?,3.6238251000177115,,single,"The rough rule of thumb is that **1 token ≈ 0.75 words** (so, for example, 100 tokens are about 75 words).",False
+q05_transformers,"Which paper introduced Transformers, and in what year?",3.7648140000528656,,single,"The paper that introduced Transformers is the Google research paper titled **“Attention Is All You Need,”** and it was published in **2017**.",False
+q06_christies_ai_art,How much did Christie's sell the first AI artwork for?,3.020673100021668,,single,"Christie’s sold the first AI artwork for **$432,500 (USD)**.",False
+q07_cisco_devices,"How many networked devices does Cisco estimate, and how many are IoT?",19.104675700014923,,multipart,"Cisco’s Annual Internet Report 2023 estimates that there are **about 29.3 billion networked devices worldwide**. Of those, **approximately 14.7 billion are Internet‑of‑Things (IoT) devices**.",False
+q08_tsmc_samsung,What market share do TSMC and Samsung have?,17.284748299978673,,multipart,"- **TSMC:** Approximately 55 % market share.  
+- **Samsung:** Approximately 15 % market share (in 2023).",False
+q09_swedish_breast_cancer,What did the Swedish breast cancer screening study find?,14.653986299992539,,single,"The 2023 Swedish study found that AI‑supported breast‑cancer screening (analysis of mammogram images) performed as well as two radiologists working together, cut the radiologists’ workload by about 50 %, and resulted in roughly 20 % more cancers being detected early for treatment.",False
+q10_itu_offline,What do the ITU figures say about the offline population?,12.959322399983648,,single,"The ITU’s 2022 data indicate that a large share of people are still offline:
+
+* **Globally**, 34 % of the world’s population had never been connected to the Internet in 2022, which corresponds to about **2.6 billion people**.  
+* **In the least‑developed countries (LDCs)**, the offline share is much higher: **64 % of the population is not connected**, which is almost twice the global average of 34 %.  
+
+These figures show that roughly one‑third of all people worldwide, and nearly two‑thirds of people in LDCs, remain offline.",False

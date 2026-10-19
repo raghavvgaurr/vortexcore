@@ -1,0 +1,17 @@
+,score
+candidate_recall@1,0.2184
+candidate_recall@5,0.5399
+candidate_recall@10,0.6622
+candidate_MRR,0.8077
+reranked_recall@1,0.2825
+reranked_recall@5,0.5912
+reranked_recall@10,0.5912
+reranked_MRR,0.891
+strict_candidate_recall@1,0.3749
+strict_candidate_recall@5,0.8169
+strict_candidate_recall@10,0.8938
+strict_candidate_MRR,0.8013
+strict_reranked_recall@1,0.4903
+strict_reranked_recall@5,0.8938
+strict_reranked_recall@10,0.8938
+strict_reranked_MRR,0.8808

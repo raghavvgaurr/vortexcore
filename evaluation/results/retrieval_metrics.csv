@@ -1,0 +1,24 @@
+id,sub_query_index,sub_query,gold_chunks,strict_gold_chunks,strict_fell_back_to_any,candidate_recall@1,candidate_recall@5,candidate_recall@10,candidate_MRR,reranked_recall@1,reranked_recall@5,reranked_recall@10,reranked_MRR,strict_candidate_recall@1,strict_candidate_recall@5,strict_candidate_recall@10,strict_candidate_MRR,strict_reranked_recall@1,strict_reranked_recall@5,strict_reranked_recall@10,strict_reranked_MRR
+q01_dartmouth_ai,1,"first use of the term ""Artificial Intelligence"" location and date",2,2,True,0.5,0.5,0.5,1.0,0.5,0.5,0.5,1.0,0.5,0.5,0.5,1.0,0.5,0.5,0.5,1.0
+q02_chatgpt_100m,1,How long did it take ChatGPT to reach 100 million users?,3,1,False,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+q03_ai_components,1,three core components of AI,157,25,False,0.006369426751592357,0.01910828025477707,0.025477707006369428,1.0,0.006369426751592357,0.01910828025477707,0.01910828025477707,1.0,0.04,0.12,0.12,1.0,0.04,0.12,0.12,1.0
+q04_tokens_words,1,rough tokens-to-words rule,3,3,False,0.3333333333333333,1.0,1.0,1.0,0.3333333333333333,1.0,1.0,1.0,0.3333333333333333,1.0,1.0,1.0,0.3333333333333333,1.0,1.0,1.0
+q05_transformers,1,paper that introduced Transformers and its publication year,3,1,False,0.0,0.3333333333333333,0.3333333333333333,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0
+q06_christies_ai_art,1,Christie's sale price of the first AI artwork,3,1,False,0.3333333333333333,0.3333333333333333,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+q07_cisco_devices,1,Cisco estimate of total networked devices,2,1,False,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.5
+q07_cisco_devices,2,Cisco estimate of IoT devicesCisco estimate of total networked devices,2,1,False,0.0,1.0,1.0,0.5,0.5,1.0,1.0,1.0,0.0,1.0,1.0,0.5,0.0,1.0,1.0,0.5
+q07_cisco_devices,3,Cisco estimate of IoT devices,2,1,False,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+q08_tsmc_samsung,1,market share of TSMC and Samsung,6,2,False,0.16666666666666666,0.6666666666666666,1.0,1.0,0.16666666666666666,0.8333333333333334,0.8333333333333334,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0
+q09_swedish_breast_cancer,1,Swedish breast cancer screening study findings,2,1,False,0.0,0.0,0.5,0.14285714285714285,0.0,0.5,0.5,0.25,0.0,0.0,1.0,0.14285714285714285,0.0,1.0,1.0,0.25
+q10_itu_offline,1,ITU offline population figures,4,1,False,0.0,0.5,0.75,0.3333333333333333,0.0,0.5,0.5,0.3333333333333333,0.0,1.0,1.0,0.25,0.0,1.0,1.0,0.2
+h01_deep_blue,1,When did IBM Deep Blue beat chess grandmaster Gary Kasparov?,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h02_godfathers,1,Researchers nicknamed the “Godfathers of AI”,4,4,False,0.25,0.75,1.0,1.0,0.25,1.0,1.0,1.0,0.25,0.75,1.0,1.0,0.25,1.0,1.0,1.0
+h03_turing_paper,1,Alan Turing 1950 paper that introduced the Turing Test,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h04_moores_law,1,Gordon Moore observation about transistors on an integrated circuit,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h05_google_tpu,1,Name of the AI chip that Google has developed since 2016,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h06_webpages,1,Number of webpages that were online in 2022,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h06_webpages,2,Estimated time required for a person to study all webpages that were online in 2022,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h07_randstad,1,Randstad survey share of workers offered AI training,1,1,False,0.0,0.0,1.0,0.14285714285714285,0.0,1.0,1.0,0.3333333333333333,0.0,0.0,1.0,0.14285714285714285,0.0,1.0,1.0,0.3333333333333333
+h08_youtube_views,1,YouTube total views for videos about AI tools in 2023,1,1,False,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+h09_uk_exascale,1,UK investment amount in an exascale computer for AI research,2,2,False,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0,0.5,1.0,1.0,1.0
+h10_new_data_units,1,new units of data measurement agreed in 2022,3,3,False,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0

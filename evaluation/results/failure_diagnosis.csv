@@ -1,0 +1,21 @@
+id,diagnosis
+q01_dartmouth_ai,Pass on current diagnostic checks
+q02_chatgpt_100m,Retrieval reached evidence; answer missed required fact(s)
+q03_ai_components,Pass on current diagnostic checks
+q04_tokens_words,Pass on current diagnostic checks
+q05_transformers,Pass on current diagnostic checks
+q06_christies_ai_art,Pass on current diagnostic checks
+q07_cisco_devices,Pass on current diagnostic checks
+q08_tsmc_samsung,Pass on current diagnostic checks
+q09_swedish_breast_cancer,Retrieval reached evidence; answer missed required fact(s)
+q10_itu_offline,Retrieval reached evidence; answer missed required fact(s)
+h01_deep_blue,Pass on current diagnostic checks
+h02_godfathers,Pass on current diagnostic checks
+h03_turing_paper,Pass on current diagnostic checks
+h04_moores_law,Pass on current diagnostic checks
+h05_google_tpu,Pass on current diagnostic checks
+h06_webpages,Pass on current diagnostic checks
+h07_randstad,Retrieval reached evidence; answer missed required fact(s)
+h08_youtube_views,Pass on current diagnostic checks
+h09_uk_exascale,Pass on current diagnostic checks
+h10_new_data_units,Pass on current diagnostic checks

@@ -1,0 +1,11 @@
+id,diagnosis
+q01_dartmouth_ai,Pass on current diagnostic checks
+q02_chatgpt_100m,Retrieval reached evidence; answer missed required fact(s)
+q03_ai_components,Pass on current diagnostic checks
+q04_tokens_words,Pass on current diagnostic checks
+q05_transformers,Pass on current diagnostic checks
+q06_christies_ai_art,Pass on current diagnostic checks
+q07_cisco_devices,Pass on current diagnostic checks
+q08_tsmc_samsung,Pass on current diagnostic checks
+q09_swedish_breast_cancer,Retrieval reached evidence; answer missed required fact(s)
+q10_itu_offline,Retrieval reached evidence; answer missed required fact(s)

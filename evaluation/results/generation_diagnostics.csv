@@ -1,0 +1,21 @@
+id,fact_coverage,fact_coverage_numbers_normalized,facts_found,required_facts,answer
+q01_dartmouth_ai,1.0,1.0,"['Dartmouth', '1956']","['Dartmouth', '1956']",The term “Artificial Intelligence” was first used at the Dartmouth Conference in 1956.
+q02_chatgpt_100m,0.333,0.667,['100 million'],"['100 million', '2 months', 'November 2022']",ChatGPT reached 100 million users in just **two months**.
+q03_ai_components,1.0,1.0,"['algorithms', 'data', 'compute']","['algorithms', 'data', 'compute']","The three core components of AI are **Algorithms, Data, and Compute**."
+q04_tokens_words,1.0,1.0,"['0.75', '100 tokens', '75 words']","['0.75', '100 tokens', '75 words']","The rough rule of thumb is that **1 token equals about 0.75 words** (i.e., 75 % of a word). Consequently, **100 tokens correspond to roughly 75 words**."
+q05_transformers,1.0,1.0,"['Attention Is All You Need', '2017']","['Attention Is All You Need', '2017']","The paper that introduced Transformers is the Google research paper titled **“Attention Is All You Need,”** and it was published in **2017**."
+q06_christies_ai_art,1.0,1.0,"['432,500']","['432,500']","Christie's sold the first AI artwork for **$432,500 (USD)**."
+q07_cisco_devices,1.0,1.0,"['29.3 billion', '14.7 billion', 'IoT']","['29.3 billion', '14.7 billion', 'IoT']","Cisco’s 2023 Annual Internet Report estimates that there are **about 29.3 billion networked devices worldwide**. Of those, **approximately 14.7 billion are Internet‑of‑Things (IoT) devices**."
+q08_tsmc_samsung,1.0,1.0,"['TSMC', '55', 'Samsung', '15']","['TSMC', '55', 'Samsung', '15']","TSMC holds about **55%** of the market share, while Samsung has roughly **15%** of the market share (as of 2023)."
+q09_swedish_breast_cancer,0.333,0.333,['two radiologists'],"['two radiologists', '50%', '20%']","The 2023 Swedish study found that AI‑supported breast‑cancer screening (analysis of mammogram images) performed as well as two radiologists working together, cut the radiologists’ workload by about 50 %, and resulted in roughly 20 % more cancers being detected early for treatment."
+q10_itu_offline,0.333,0.333,['2.6 billion'],"['34%', '2.6 billion', '64%']","The ITU reports that, in 2022, 34 % of the world’s population – about 2.6 billion people – had never been connected to the Internet. In the least‑developed countries, the share of people without Internet access is even higher: 64 % of the population is offline, which is roughly twice the global average of 34 % not online."
+h01_deep_blue,1.0,1.0,['1997'],['1997'],IBM Deep Blue beat chess grandmaster Gary Kasparov in 1997.
+h02_godfathers,1.0,1.0,"['LeCun', 'Hinton', 'Bengio']","['LeCun', 'Hinton', 'Bengio']","The researchers nicknamed the “Godfathers of AI” are **Yann LeCun, Geoffrey Hinton, and Yoshua Bengio**."
+h03_turing_paper,1.0,1.0,['Computing Machinery and Intelligence'],['Computing Machinery and Intelligence'],The 1950 paper by Alan Turing that introduced the Turing Test is **“Computing Machinery and Intelligence.”**
+h04_moores_law,1.0,1.0,"['transistors', 'two years']","['transistors', 'two years']",Gordon Moore observed that the number of transistors on an integrated circuit was doubling roughly every two years.
+h05_google_tpu,1.0,1.0,"['TPU', 'Tensor Processing Unit']","['TPU', 'Tensor Processing Unit']",Google’s AI chip developed since 2016 is called the **TPU (Tensor Processing Unit)**.
+h06_webpages,1.0,1.0,"['5.75 billion', '11,000']","['5.75 billion', '11,000']","In 2022 there were roughly **5.75 billion webpages** online. If a person spent **one minute on each page**, it would take about **11,000 years** to study them all (assuming no breaks)."
+h07_randstad,0.0,0.0,[],['13%'],"According to the Randstad survey, only **13 % of workers** had been offered any form of AI training in the last 12 months."
+h08_youtube_views,1.0,1.0,['17 billion'],['17 billion'],Videos related to AI tools received **more than 17 billion views on YouTube in 2023**.
+h09_uk_exascale,1.0,1.0,['900'],['900'],The UK is investing **£900 million** in an exascale computer for AI research.
+h10_new_data_units,1.0,1.0,"['Ronnabyte', 'Quettabyte']","['Ronnabyte', 'Quettabyte']",The two new units of data measurement agreed in 2022 are the **Ronnabyte (RB)** and the **Quettabyte (QB)**.
