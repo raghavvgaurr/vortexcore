@@ -5,12 +5,18 @@ A retrieval-augmented generation (RAG) system that answers questions about PDF r
 **Live demo:** 
 "https://vortexcore-api.streamlit.app/"
 
-[VortexCore Application](<Screenshot 2026-10-20 174122.png>) !
-[clarity](<Screenshot 2026-10-20 174136.png>) !
-[sources and reranking](<Screenshot 2026-10-20 174113.png>) !
-[How it handles hallucination](<Screenshot 2026-10-20 174646.png>) !
-[VortexCore Retrieval](<Screenshot 2026-10-20 174751.png>) !
+[VortexCore Application](<Screenshot 2026-10-20 174122.png>)
+
+[clarity](<Screenshot 2026-10-20 174136.png>) 
+
+[sources and reranking](<Screenshot 2026-10-20 174113.png>) 
+
+[How it handles hallucination](<Screenshot 2026-10-20 174646.png>) 
+
+[VortexCore Retrieval](<Screenshot 2026-10-20 174751.png>) 
+
 [LangSmith Tracing](<Screenshot 2026-10-20 180321.png>)
+
 ## Results at a glance
 
 Tested on one document: the WTTC *Introduction to AI* report (44 scanned pages, OCR with Tesseract 5.5.3, 618 searchable chunks). 20 answerable questions (10 used while building, 10 held out) and 5 unanswerable ones.
