@@ -1,8 +1,8 @@
-# Document Q&A: Hybrid Retrieval, Reranking and Grounded Answers
+# Vortexcore:> Document Q&A,Hybrid Retrieval, Reranking and Grounded Answers
 
 A retrieval-augmented generation (RAG) system that answers questions about PDF reports, cites the file and page for every answer, and refuses when the evidence is weak. It works on scanned PDFs through OCR. The pipeline is tested, evaluated against held-out questions, and served through a Streamlit app.
 
-**Live demo:** _add the Streamlit link here after deployment_
+**Live demo:** 
 
 ## Results at a glance
 
@@ -258,7 +258,7 @@ Needs at least about 2 GB of memory because of the two models.
 
 ## Author
 
-Raghav. GitHub: [raghavvgaurr](https://github.com/raghavvgaurr)
+Raghav. GitHub: [raghavvgaurr] (https://github.com/raghavvgaurr/vortexcore)
 
 ## Licence
 

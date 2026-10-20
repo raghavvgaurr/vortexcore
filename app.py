@@ -11,7 +11,8 @@ from src.pipeline import build_index, rag_pipeline
 
 log = logging.getLogger(__name__)
 
-st.set_page_config(page_title="Document Q&A", layout="centered")
+st.set_page_config(page_title="vortexcore", layout="centered")
+
 
 
 @st.cache_resource(show_spinner="Reading the sample report (OCR takes a minute the first time)...")
@@ -94,7 +95,8 @@ with st.sidebar:
     top_k = st.slider("Passages used for the answer", 1, 10, config.TOP_K)
     show_details = st.checkbox("Show retrieval details")
 
-st.title("Document Q&A")
+st.title("VortexCore")
+st.text("Retrieve Smarter. Reason Deeper. Answer Better.",)
 index = st.session_state.index
 if index is None:
     st.info("Upload a PDF in the sidebar and press **Index uploaded files** to begin.")
