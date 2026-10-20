@@ -3,7 +3,7 @@
 A retrieval-augmented generation (RAG) system that answers questions about PDF reports, cites the file and page for every answer, and refuses when the evidence is weak. It works on scanned PDFs through OCR. The pipeline is tested, evaluated against held-out questions, and served through a Streamlit app.
 
 **Live demo:** 
-
+"https://vortexcore-api.streamlit.app/"
 ## Results at a glance
 
 Tested on one document: the WTTC *Introduction to AI* report (44 scanned pages, OCR with Tesseract 5.5.3, 618 searchable chunks). 20 answerable questions (10 used while building, 10 held out) and 5 unanswerable ones.
