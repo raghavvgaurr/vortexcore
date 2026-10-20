@@ -20,4 +20,6 @@ langchain-google-genai
 pandas
 langsmith
 langchain-groq
-streamlit
+deepagents
+
+streamlit>=1.40,<2.0
